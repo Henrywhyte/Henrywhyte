@@ -1,10 +1,10 @@
 
-# Hello, I'm CHANGEME
+# Hello, I'm CHUKWUEKWU HENRY NGIDI
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Highly skilled and motivated IT Support, and Linux enthusiast.  With 1+ years of experience in configuration, installation, maintenance, and troubleshooting of computer hardware, software, and printers in IT support and a few months in cybersecurity I love to take the initiative and seek out new challenges. Looking for opportunities as an IT Support and SOC Analyst. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
