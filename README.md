@@ -2,21 +2,21 @@
 # Hello, I'm CHUKWUEKWU HENRY NGIDI
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a Highly skilled and motivated IT Support, and Linux enthusiast.  With 1+ years of experience in configuration, installation, maintenance, and troubleshooting of computer hardware, software, and printers in IT support and a few months in cybersecurity I love to take the initiative and seek out new challenges. Looking for opportunities as an IT Support and SOC Analyst. 
+
+I am a Highly skilled and motivated IT Support, and Linux enthusiast.  With 2+ years of experience in configuration, installation, maintenance, and troubleshooting of computer hardware, software, and printers in IT support and a few months in cybersecurity I love to take the initiative and seek out new challenges. Looking for opportunities as an IT Support and SOC Analyst. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Henrywhyte/Detection-Labs/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -57,5 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Henrywhyte/Detection-Labs/tree/main">Detection Lab</a>
 - SOC Automation Project
